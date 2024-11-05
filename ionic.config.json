@@ -1,0 +1,7 @@
+{
+  "name": "BackendAyuda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
